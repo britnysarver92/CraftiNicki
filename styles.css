@@ -37,19 +37,19 @@ body {
   float: left;
   font-size: 40px;
   font-weight: bold;
-  padding: 0 50px 0 50px;
+  padding: 0 20px 0 50px;
 }
 
 #header-nav {
   display: block;
   float: right;
   font-size: 25px;
-  padding: 0;
+  padding: 0 30px 0 0;
 }
 
 #header-nav li {
   display: inline;
-  padding: 0 20px 0 20px;
+  padding: 0 0 0 40px;
   margin: 0;
 }
 
