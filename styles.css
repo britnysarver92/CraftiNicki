@@ -18,7 +18,7 @@ body {
   length: 200px;
   float: left;
   display: block;
-  padding: 0 0 0 10px;
+  padding: 0 0 0 20px;
 }
 
 #header a {
@@ -49,7 +49,7 @@ body {
 
 #header-nav li {
   display: inline;
-  padding: 0 50px 0 0;
+  padding: 0 20px 0 20px;
   margin: 0;
 }
 
